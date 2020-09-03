@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Igor
+## Hi there 👋, I'm Igor
 
 ## Co-Founder at [Mbanq Cloud](https://mbanq.com/cloud)
 
