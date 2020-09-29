@@ -8,8 +8,9 @@
 - 📫 How to reach me: [📧](mailto:igor.kostyuchenok@gmail.com)
 - 🥅 2020 goals: travel and surf more
 
-## I'm also running a weekly music podcast [Salty Breeze Radio](https://www.mixcloud.com/saltybreezeradio/)
+## I'm also running a weekly music podcast `Salty Breeze Radio`
 - 📷 [Salty Breeze Radio on Instagram](https://www.instagram.com/saltybreezeradio/)
+- 🎸 [Salty Breeze Radio on MixCloud](https://www.mixcloud.com/saltybreezeradio/)
 
 ## [SVRFR](https://svrfr.com)
 - 🌏 website https://svrfr.com
