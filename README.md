@@ -11,10 +11,10 @@
 - 🥅 2021 goals: more travel, surf, code, finish my book
 
 ## I'm also running a weekly music podcast `Salty Breeze Radio`
-- 📷 [Salty Breeze Radio on Instagram](https://www.instagram.com/saltybreezeradio/)
-- 🎸 [Salty Breeze Radio on Acast](https://shows.acast.com/salty-breeze-radio)
-- 🎺 [Salty Breeze Radio on Player.fm](https://player.fm/series/2808875)
-- 🎹 [Salty Breeze Radio on TuneIn](https://tunein.com/podcasts/Music-Podcasts/Salty-Breeze-Radio-p1374587/)
+- 📷 Salty Breeze Radio on [Instagram](https://www.instagram.com/saltybreezeradio/)
+- 🎸 Salty Breeze Radio on [Acast](https://shows.acast.com/salty-breeze-radio)
+- 🎺 Salty Breeze Radio on [Player.fm](https://player.fm/series/2808875)
+- 🎹 Salty Breeze Radio on [TuneIn](https://tunein.com/podcasts/Music-Podcasts/Salty-Breeze-Radio-p1374587/)
 
 ## [SVRFR](https://svrfr.com)
 - 🌏 website https://svrfr.com
