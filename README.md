@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Igor
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorkosta&show_icons=true&theme=default)
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorkosta&show_icons=true&theme=merko)
 
 ## Co-Founder at [Mbanq Cloud](https://mbanq.com/cloud)
 
