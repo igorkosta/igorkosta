@@ -6,6 +6,6 @@
 - 📕 Writing my first book here [Avanti](https://ryan-raiz.github.io/avanti/)
 - 💬 Ask me about anything but don't expect a smart answer 😂
 - 📫 How to reach me: [📧](mailto:igor.kostyuchenok@gmail.com)
-- 🥅 2021 goals: more travel, surf, code, finish my book
+- 🥅 2023 goals: publish more books
 
-## Read [Avanti](https://ryan-raiz.github.io/avanti/)
+## Read my book of poetry here: https://www.litres.ru/igor-kostuchenok/21/
