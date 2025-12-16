@@ -6,4 +6,3 @@
 - 💬 I'm regularly sepaking at [FinTech events](https://www.youtube.com/playlist?list=PLZ-bmETADhY9f_Scgaeu3aZT7bE6iCmSf)
 - 📫 How to reach me: [📧](mailto:igor.kostyuchenok@gmail.com)
 - Read my [Startup, Please](https://www.amazon.com/Startup-Please-before-founding-company-ebook/dp/B0BWFK212S) book
-- 🥅 2024 goals: publish more books
